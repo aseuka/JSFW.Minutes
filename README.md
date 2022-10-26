@@ -27,7 +27,7 @@
 - 샘플 경로<br />
 ![image](https://user-images.githubusercontent.com/116536524/197956394-d0d8d2ce-a577-41c4-8c05-6526177dc092.png)
 
-![youtube](https://www.youtube.com/watch?v=2KE2kxCKUc4)
+![media]{유튜브}(https://www.youtube.com/watch?v=2KE2kxCKUc4)
 
 ---
 - 캡쳐 프로그램!<br />
