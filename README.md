@@ -26,8 +26,8 @@
 
 - 샘플 경로<br />
 ![image](https://user-images.githubusercontent.com/116536524/197956394-d0d8d2ce-a577-41c4-8c05-6526177dc092.png)
-
-![media](https://www.youtube.com/watch?v=2KE2kxCKUc4)```유튜브
+ 
+[![Video Label](http://img.youtube.com/vi/2KE2kxCKUc4/0.jpg)](https://youtu.be/2KE2kxCKUc4)
 
 ---
 - 캡쳐 프로그램!<br />
