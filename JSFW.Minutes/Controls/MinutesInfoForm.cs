@@ -371,7 +371,7 @@ namespace JSFW.Minutes.Controls
             {
                 IsRun_Clock = true;
                 ThreadClock = new Action(StartClock);
-                ThreadClock.BeginInvoke(ir => ThreadClock.EndInvoke(ir), null);
+                ThreadClock.BeginInvoke(ir => ThreadClock?.EndInvoke(ir), null);
             }
             catch {
                 // 닫을때? 에러강??? 
