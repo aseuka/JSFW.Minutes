@@ -27,11 +27,11 @@
 - 샘플 경로<br />
 ![image](https://user-images.githubusercontent.com/116536524/197956394-d0d8d2ce-a577-41c4-8c05-6526177dc092.png)
 
-![유튜브 영상](url=https://www.youtube.com/watch?v=2KE2kxCKUc4)
+![유튜브 영상](https://www.youtube.com/watch?v=2KE2kxCKUc4)
 
 ---
 - 캡쳐 프로그램!<br />
-![GreenShot](url=https://github.com/greenshot/greenshot)
+![GreenShot](https://github.com/greenshot/greenshot)
 
  : 캡쳐 후 저장파일 경로를 이 프로그램에 맞추어 수정하여 dll만 참조<br />
    ( 필요시 git에서 다운받아 수정하여 사용. git에 소스를 올리면 안될 것 같아 dll만 참조 )<br />
