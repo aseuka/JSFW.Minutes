@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSFW.Minutes", "JSFW.Minutes\JSFW.Minutes.csproj", "{305D09EC-7615-4A60-B573-4B4DAFF54122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305D09EC-7615-4A60-B573-4B4DAFF54122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305D09EC-7615-4A60-B573-4B4DAFF54122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305D09EC-7615-4A60-B573-4B4DAFF54122}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{305D09EC-7615-4A60-B573-4B4DAFF54122}.Debug|x86.Build.0 = Debug|Any CPU
+		{305D09EC-7615-4A60-B573-4B4DAFF54122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305D09EC-7615-4A60-B573-4B4DAFF54122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305D09EC-7615-4A60-B573-4B4DAFF54122}.Release|x86.ActiveCfg = Release|Any CPU
+		{305D09EC-7615-4A60-B573-4B4DAFF54122}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E59AE6-0574-460C-88F6-5BA90708FB1B}
+	EndGlobalSection
+EndGlobal
