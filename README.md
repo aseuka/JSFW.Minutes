@@ -27,6 +27,7 @@
 - 샘플 경로<br />
 ![image](https://user-images.githubusercontent.com/116536524/197956394-d0d8d2ce-a577-41c4-8c05-6526177dc092.png)
  
+- 유튜브영상<br />
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/2KE2kxCKUc4/0.jpg)](https://youtu.be/2KE2kxCKUc4?t=0s)
 
 ---
